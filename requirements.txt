@@ -1,0 +1,3 @@
+django-filer
+ella>=3.0
+ella-galleries
